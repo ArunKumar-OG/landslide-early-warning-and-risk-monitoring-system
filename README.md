@@ -1,1 +1,1 @@
-# major_project_7th_sem
+# landslide-early-warning-and-risk-monitoring-system
